@@ -1,1 +1,1 @@
-{"build": 10, "size": 191472, "note": "faster: pod hatch rims baked into the icon atlas (518 -> 169 draw calls)"}
+{"build": 11, "size": 199088, "note": "undo; auto-build machines; intake limits; designed machines 50% faster; auto-facing placement; no building over machines; item pickers"}
