@@ -1,1 +1,1 @@
-{"build": 9, "size": 191472, "note": "ui pass: one theme, compact credits, foldable goal card, toast and info pills, context phone buttons, tidier recipe book"}
+{"build": 10, "size": 191472, "note": "faster: pod hatch rims baked into the icon atlas (518 -> 169 draw calls)"}
