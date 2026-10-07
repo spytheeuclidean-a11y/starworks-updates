@@ -1,1 +1,1 @@
-{"build": 15, "size": 403656, "note": "circuit maker revamp: chunky blocks with pictures, block panel (settings, turn, delete), auto-facing blocks, signal pulses, storage icons, phone bay view fits"}
+{"build": 16, "size": 412504, "note": "real circuits: + and - rails, wires join every way, switches (AND in a line, OR side by side, NOT), relays, diodes, shorts; old boards rewired"}
