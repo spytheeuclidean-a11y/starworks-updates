@@ -1,1 +1,1 @@
-{"build": 16, "size": 412504, "note": "real circuits: + and - rails, wires join every way, switches (AND in a line, OR side by side, NOT), relays, diodes, shorts; old boards rewired"}
+{"build": 17, "size": 418312, "note": "circuits reach the deck: colour channels, deck signal / deck switch / credits switch, deck parts run on a channel, probe belts"}
