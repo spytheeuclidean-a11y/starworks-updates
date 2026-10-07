@@ -1,1 +1,1 @@
-{"build": 17, "size": 418312, "note": "circuits reach the deck: colour channels, deck signal / deck switch / credits switch, deck parts run on a channel, probe belts"}
+{"build": 18, "size": 412840, "note": "removed deck control (channels, probes, RUNS, deck circuit parts) - too complicated"}
