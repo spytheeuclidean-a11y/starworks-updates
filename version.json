@@ -1,1 +1,1 @@
-{"build": 26, "size": 476900, "note": "zigzag conveyors now draw as straight diagonal belts (rails and catchers follow); a catcher on either outer side of a bend holds; catchers + spill markers batch again (draw calls back to ~240)"}
+{"build": 27, "size": 485536, "note": "a purpose: you're stranded and tumbling; build the Jump Drive (3x3, free, one per station) and feed it 5 mission stages to get home. stage rewards, stage 2 halves the flips, the last one wins (station steadies). story intro, mission card replaces free play"}
