@@ -1,1 +1,1 @@
-{"build": 25, "size": 462692, "note": "catchers redrawn as slim rails along the belt edge that join up and curve round bends; bends no longer spill back toward where they come in"}
+{"build": 26, "size": 476900, "note": "zigzag conveyors now draw as straight diagonal belts (rails and catchers follow); a catcher on either outer side of a bend holds; catchers + spill markers batch again (draw calls back to ~240)"}
